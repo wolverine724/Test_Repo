@@ -1,0 +1,10 @@
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\bin\Debug\netcoreapp3.1\WebApplicationAPI.Model.deps.json
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\bin\Debug\netcoreapp3.1\WebApplicationAPI.Model.dll
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\bin\Debug\netcoreapp3.1\WebApplicationAPI.Model.pdb
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\obj\Debug\netcoreapp3.1\WebApplicationAPI.Model.AssemblyInfoInputs.cache
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\obj\Debug\netcoreapp3.1\WebApplicationAPI.Model.AssemblyInfo.cs
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\obj\Debug\netcoreapp3.1\WebApplicationAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\obj\Debug\netcoreapp3.1\WebApplicationAPI.Model.dll
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\obj\Debug\netcoreapp3.1\WebApplicationAPI.Model.pdb
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\obj\Debug\netcoreapp3.1\WebApplicationAPI.Model.csproj.AssemblyReference.cache
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Model\obj\Debug\netcoreapp3.1\WebApplicationAPI.Model.GeneratedMSBuildEditorConfig.editorconfig

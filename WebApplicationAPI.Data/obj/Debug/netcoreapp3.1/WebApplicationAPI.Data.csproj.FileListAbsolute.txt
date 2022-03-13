@@ -1,0 +1,16 @@
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\bin\Debug\netcoreapp3.1\WebApplicationAPI.Data.deps.json
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\bin\Debug\netcoreapp3.1\WebApplicationAPI.Data.runtimeconfig.json
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\bin\Debug\netcoreapp3.1\WebApplicationAPI.Data.runtimeconfig.dev.json
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\bin\Debug\netcoreapp3.1\WebApplicationAPI.Data.dll
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\bin\Debug\netcoreapp3.1\WebApplicationAPI.Data.pdb
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\bin\Debug\netcoreapp3.1\WebApplicationAPI.Model.dll
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\bin\Debug\netcoreapp3.1\WebApplicationAPI.Model.pdb
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.AssemblyInfoInputs.cache
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.AssemblyInfo.cs
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.csproj.CoreCompileInputs.cache
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.csproj.CopyComplete
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.dll
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.pdb
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.genruntimeconfig.cache
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.csproj.AssemblyReference.cache
+C:\Users\JinHai\Desktop\Api\WebApplicationAPI\WebApplicationAPI.Data\obj\Debug\netcoreapp3.1\WebApplicationAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
