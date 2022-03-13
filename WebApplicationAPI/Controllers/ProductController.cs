@@ -34,6 +34,13 @@ namespace WebApplicationAPI.Controllers
             return await Task.FromResult(result);
         }
 
+        [HttpGet]
+        public async Task<IEnumerable<Product>> GetAllList()
+        {
+            var result = _productRepository.GetListProduct();
+            return await Task.FromResult(result);
+        }
+
 
     }
 }
